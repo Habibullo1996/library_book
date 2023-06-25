@@ -1,0 +1,7 @@
+.idea
+db.sqlite3
+Pipfile.lock
+Pipfile.lock
+Procfile
+runtime.txt
+requirments.txt
